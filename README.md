@@ -18,8 +18,14 @@ load_range increased from 10 to 30
 
 Adjusted land units' transport sizes
 
+
 Dox, Stryker, Skitter, Boom, Locust - 1
+
 Spark, Grenadier, Ant, Drifter, Spinner, Stinger - 2
+
 Inferno, Storm, Slammer, Stitch - 3
+
 Leveler, Sheller, Gil-E, Mend, Bluehawk - 4
+
 Vanguard, Commander, Colonel - 5
+
