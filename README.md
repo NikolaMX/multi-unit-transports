@@ -5,7 +5,7 @@ A mod that enables Pelicans and Asreus to carry multiple units
 Changelog:
 
 Astreus:
-Capacity increased from 1 to 35
+Capacity increased from 1 to 30
 Cost increased from 200 to 800
 HP increased from 150 to 300
 transportable parameter increased from 20 to 500
