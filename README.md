@@ -4,6 +4,7 @@ A mod that enables Pelicans and Asreus to carry multiple units
 
 Changelog:
 
+
 Astreus:
 Carry capacity increased from 1 to 30
 Cost increased from 200 to 800
@@ -18,16 +19,11 @@ load_range increased from 10 to 30
 
 
 
-Adjusted land units' transport sizes
-
+Adjusted land units' transport sizes:
 
 Dox, Stryker, Skitter, Boom, Locust - take up 1 slot
-
 Spark, Grenadier, Ant, Drifter, Spinner, Stinger - take up 2 slots
-
 Inferno, Storm, Slammer, Stitch - take up 3 slots
-
 Leveler, Sheller, Gil-E, Mend, Bluehawk - take up 4 slots
-
 Vanguard, Commander, Colonel - take up 5 slots
 
