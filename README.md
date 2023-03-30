@@ -12,6 +12,7 @@ HP increased from 150 to 300
 transportable parameter increased from 20 to 500
 load_range increased from 10 to 75
 
+
 Pelican:
 Carry capacity increased from 1 to 5
 transportable parameter increased from 20 to 500
