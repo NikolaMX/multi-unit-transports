@@ -7,6 +7,8 @@ Changelog:
 
 Astreus:
 
+Updated description
+
 Carry capacity increased from 1 to 30
 
 Cost increased from 200 to 800
@@ -20,6 +22,8 @@ load_range increased from 10 to 75
 
 
 Pelican:
+
+Updated description
 
 Carry capacity increased from 1 to 5
 
